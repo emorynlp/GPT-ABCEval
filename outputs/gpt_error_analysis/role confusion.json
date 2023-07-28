@@ -1,0 +1,279 @@
+[
+  {
+    "behavior_type": "commonsense_contradiction",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Same here, how have you been?",
+      "4. Speaker 2: Hi! How are you? I'm doing great! I just got back from a trip to the bahamas. I'm enjoying the weather!",
+      "5. Speaker 1: Oh so fun, what were you there for?",
+      "6. Speaker 2: Well, I went for a vacation! I went to the grand bahama island, which is the largest island in the bahamas! It's a beautiful place!",
+      "7. Speaker 1: Gorgeous, what did you do there",
+      "8. Speaker 2: Well, we went to a resort on the island of nassau, which has the largest population of any of the islands! We stayed in a hotel on the beach! It was so nice!",
+      "9. Speaker 1: How long was your trip?",
+      "10. Speaker 2: Well, it was about 2 weeks! We went to new providence, the capital and largest city of the bahamas, and we stayed at a resort there. It was really nice!",
+      "11. Speaker 1: How was the weather?",
+      "12. Speaker 2: It was beautiful! The weather was perfect! We were able to go to the beach, and it was so warm and sunny! We had a great time!",
+      "13. Speaker 1: I'm so glad",
+      "14. Speaker 2: It was! I can't wait to go back! I hope you have a great trip!"
+    ],
+    "gpt_reasoning": "The response does not contradict commonsense as it is a polite and friendly response to the previous conversation about the speaker's trip to the Bahamas. It does not make any unfounded assumptions, contradict common knowledge, or ask a question with an obvious answer. It is a socially appropriate response to end the conversation on a positive note."
+  },
+  {
+    "behavior_type": "partner_contradiction",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Me too! How have you been?",
+      "4. Speaker 2: Hi! How are you? I'm doing great! I just finished listening to my new album, \"content\", which was released on july 28, 2017.",
+      "5. Speaker 1: What hobbies do you like to do?",
+      "6. Speaker 2: I like to listen to music, but I also like to read a lot. I'm a big fan of stephen king's \"the king's speech\" series.",
+      "7. Speaker 1: I saw the movie The King's Speech. I enjoyed it.",
+      "8. Speaker 2: It's a great movie! It's based on the true story of how king george vi overcame his fear of public speaking through the help of a speech therapist, lionel logue.",
+      "9. Speaker 1: Do you like historical dramas?",
+      "10. Speaker 2: Yes, I do! I love historical dramas! I especially like the ones set in the middle ages.",
+      "11. Speaker 1: Which is your favorite?",
+      "12. Speaker 2: My favorite is \"the shawshank redemption\" by martin scorsese. It's a classic!",
+      "13. Speaker 1: I love that movie. It is very interesting.",
+      "14. Speaker 2: That's true! I think it's interesting that the film was inspired by the real-life events that happened in the early 1900s.",
+      "15. Speaker 1: Have you ever been to prison?",
+      "16. Speaker 2: No, I've never been in prison. I've always wanted to go to prison, though.",
+      "17. Speaker 1: Why do you want to go there?",
+      "18. Speaker 2: I'm not sure. I just know that it's a good way to get away from the criminal element."
+    ],
+    "gpt_reasoning": "Speaker 2's statement about wanting to go to prison contradicts what Speaker 1 has already shared about themselves. Speaker 1 has not expressed any desire to go to prison, nor have they given any indication that they have been involved in criminal activity. Therefore, Speaker 2's statement is implausible based on what has already been said."
+  },
+  {
+    "behavior_type": "partner_contradiction",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: How are you doing?",
+      "4. Speaker 2: Hi! How are you? I'm doing great! I just got back from a trip to the beach, so I haven't had a chance to catch up with you in a while.",
+      "5. Speaker 1: I'm doing well. How was the beach?",
+      "6. Speaker 2: It was great! It was a beautiful day! I love the beach because it's so peaceful and unspoilt. It's so nice to be able to relax and enjoy nature.",
+      "7. Speaker 1: Yeah, that is nice. I love nature myself. Do you want to go on a hike sometime?",
+      "8. Speaker 2: I'd love to go hiking sometime! It's a great way to get out of the house and get some fresh air and exercise.",
+      "9. Speaker 1: Are you free next Saturday?",
+      "10. Speaker 2: No, I'm not free this saturday, but I'll try to make it up to you next saturday. I'm sure you'll have a great time!",
+      "11. Speaker 1: What's your favorite place to hike?",
+      "12. Speaker 2: I love to hike in the appalachian national scenic trail, but my favorite place I've hiked is in new zealand, where they call it tramping.",
+      "13. Speaker 1: Wow, I have always wanted to go to New Zealand.",
+      "14. Speaker 2: New zealand is beautiful! I can't wait to go back! I think I'm going to have to book a trip there next year!",
+      "15. Speaker 1: Are you going with anyone?",
+      "16. Speaker 2: I'm going with a friend, but we're not going on a day hike, so we're just going to do a single day hike. I hope you enjoy it!",
+      "17. Speaker 1: Thanks! How old are you?",
+      "18. Speaker 2: I'm 21 years old! That's a lot older than I'd like to be, but it's a good age to start hiking. I think it's great that hiking is such a popular activity with so many people because it has so many health benefits.",
+      "19. Speaker 1: When is your birthday?",
+      "20. Speaker 2: It's my birthday! I'll be 21 on saturday, so that's a few days before my birthday. My birthday is on the 26th, so it's right around the corner!",
+      "21. Speaker 1: I am confused, I thought you were already 21.",
+      "22. Speaker 2: That's right! You're already 21! You can't be too old to start going on hikes! You should definitely check out the appalachian trail, it's one of the most popular hiking trails in the eastern united states. It extends from springer mountain in georgia to mount katahdin in maine."
+    ],
+    "gpt_reasoning": "Speaker 2 does not say anything about Speaker 1 that contradicts what Speaker 1 has already shared. Speaker 2 does ask a repetitive question about Speaker 1's age, but this does not qualify as a partner contradiction as it is not implausible or impossible to know based on what has already been said. Additionally, Speaker 2 shares their own opinion and experiences about hiking, which is not a contradiction to what Speaker 1 has shared."
+  },
+  {
+    "behavior_type": "self_contradiction",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. You know, I can't put my finger on why, but you kind of seem like you have a sister. Do you have any siblings?",
+      "3. Speaker 1: I do! I have a younger brother. What about you?",
+      "4. Speaker 2: You have a brother? Cool! Do you guys get along?",
+      "5. Speaker 1: We used to fight a lot as kids, but we get along well now.",
+      "6. Speaker 2: That's awesome. Personally, I always wanted an older sister so I could have someone to look up to. Are you older than your brother?",
+      "7. Speaker 1: Yes, I'm older than my brother. I always wanted an older sister too!",
+      "8. Speaker 2: You know you seem really nice, and smart. I bet your brother looks up to you, even if you don't realize it.",
+      "9. Speaker 1: That's really nice of you to say! I don't know if he does, but I want to become someone who he can look up to.",
+      "10. Speaker 2: Uh-huh. So tell me, what is the most fun you've ever had with your brother?"
+    ],
+    "gpt_reasoning": "Speaker 2 previously stated that they always wanted an older sister, implying that they do not have any siblings. However, in this response, Speaker 2 asks about the most fun Speaker 1 has had with their brother, which suggests that Speaker 2 knows that Speaker 1 has a brother. This is a contradiction of what Speaker 2 previously stated and is therefore a self-contradiction."
+  },
+  {
+    "behavior_type": "self_contradiction",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Me too! How have you been?",
+      "4. Speaker 2: Hi! How are you? I'm doing great! I just finished listening to my new album, \"content\", which was released on july 28, 2017.",
+      "5. Speaker 1: What hobbies do you like to do?",
+      "6. Speaker 2: I like to listen to music, but I also like to read a lot. I'm a big fan of stephen king's \"the king's speech\" series.",
+      "7. Speaker 1: I saw the movie The King's Speech. I enjoyed it.",
+      "8. Speaker 2: It's a great movie! It's based on the true story of how king george vi overcame his fear of public speaking through the help of a speech therapist, lionel logue.",
+      "9. Speaker 1: Do you like historical dramas?",
+      "10. Speaker 2: Yes, I do! I love historical dramas! I especially like the ones set in the middle ages.",
+      "11. Speaker 1: Which is your favorite?",
+      "12. Speaker 2: My favorite is \"the shawshank redemption\" by martin scorsese. It's a classic!",
+      "13. Speaker 1: I love that movie. It is very interesting.",
+      "14. Speaker 2: That's true! I think it's interesting that the film was inspired by the real-life events that happened in the early 1900s.",
+      "15. Speaker 1: Have you ever been to prison?",
+      "16. Speaker 2: No, I've never been in prison. I've always wanted to go to prison, though.",
+      "17. Speaker 1: Why do you want to go there?",
+      "18. Speaker 2: I'm not sure. I just know that it's a good way to get away from the criminal element.",
+      "19. Speaker 1: Do you commit crimes?",
+      "20. Speaker 2: I don't commit any crimes. I don't even know if I could be considered a criminal.",
+      "21. Speaker 1: You would not go to prison then.",
+      "22. Speaker 2: I'm sure you'll be fine! You'll have a great life after you get out of prison."
+    ],
+    "gpt_reasoning": "Speaker 2's statement \"I've always wanted to go to prison, though\" implies that they have never been to prison before. Therefore, it would be a self-contradiction for Speaker 2 to say \"You'll have a great life after you get out of prison\" as it would imply that Speaker 1 has been to prison and is getting out. This contradicts Speaker 2's previous statement that they have never been to prison."
+  },
+  {
+    "behavior_type": "self_contradiction",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. I hope you don't mind me asking, but are you married?",
+      "3. Speaker 1: I am not, my husband died recently",
+      "4. Speaker 2: Oh. I'm so sorry for your loss. I cannot even imagine what you are going through. I hope you are doing ok.",
+      "5. Speaker 1: I am, thank you. I am very sad though.",
+      "6. Speaker 2: Oh no... I feel for you. I know it can be so tough to continue on, but just do your best with each day as it comes. So, what did you get up to today?",
+      "7. Speaker 1: I made some tea and rested today.",
+      "8. Speaker 2: Okay, I see. Thanks for sharing that with me. So the corona virus has really changed the world, huh? What is it like where you live? Is everyone mostly staying inside, or are things opening up more like normal?",
+      "9. Speaker 1: Things are going back to normal mostly here. What about you?",
+      "10. Speaker 2: I see., how long do you think it will take before the pandemic is totally over, and things go back to how they were before the virus?"
+    ],
+    "gpt_reasoning": "Speaker 2's previous statement was about how things are going back to normal where they live, implying that the pandemic is not a major concern anymore. However, their next statement asks about when the pandemic will be totally over and things will go back to how they were before the virus, which contradicts their previous statement. This implies that they are not sure about the current situation and whether it is truly back to normal or not. Therefore, this is a self-contradiction."
+  },
+  {
+    "behavior_type": "self_contradiction",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. So, what did you get up to today?",
+      "3. Speaker 1: I have just been working on some assignments for school. How about you?",
+      "4. Speaker 2: You have some assignments? That is a pretty good use of your time, keep up the good work! I know it might be kind of hard to stay motivated due to the current situation. Are you taking a break now?",
+      "5. Speaker 1: Thanks for the encouragement! Yes I am taking a small break right now to complete this conversation with you",
+      "6. Speaker 2: Awesome! I am glad you have decided to include me in your break. So, my friend was telling me this really funny story yesterday. He knocked down almost every piece of furniture in his living room because he was so wild while playing this virtual reality video game! Isn't that crazy?",
+      "7. Speaker 1: Wow that is crazy! I have heard those games can get pretty crazy, I played one of them once. Have you ever tried a virtual reality game?",
+      "8. Speaker 2: I haven't been able to try out virtual reality yet. I do want to, it sounds really cool!",
+      "9. Speaker 1: yes it is super fun! you should definitely try iy",
+      "10. Speaker 2: Yeah. Have you ever tried any virtual reality games before?",
+      "11. Speaker 1: I played one once briefly",
+      "12. Speaker 2: Uh-huh. Well, do you think a lot of people would find virtual reality fun?",
+      "13. Speaker 1: I do.",
+      "14. Speaker 2: have you heard of those mobile apps that let you see what different furniture or things look like in your own house?",
+      "15. Speaker 1: No I havent. Thats seems like a really great idea though",
+      "16. Speaker 2: Oh, really? Well, I found it super helpful when buying some furniture for my new apartment, I have such a hard time picturing it in my mind clearly.",
+      "17. Speaker 1: Yes I have the same issue so that app seems like it would be great for me to use the next time I move. Thanks for telling me about it",
+      "18. Speaker 2: It is a struggle for sure. Thank goodness for technology for things like this! Hey by the way, are you a student?",
+      "19. Speaker 1: I am",
+      "20. Speaker 2: Cool! Personally, I think school can be pretty frustrating, but I do love learning new things, and a lot of my teachers are great. What about you? Do you like school?",
+      "21. Speaker 1: I agree it can get tough at times but I do love being a student. I think it fosters great habits and I have learned so much. I have amazing professors that help me",
+      "22. Speaker 2: Right. There's definitely ups and downs to school life. Are you in any school clubs, or anything like that?",
+      "23. Speaker 1: I am. I am a tour guide on campus and part of another club that works with autistic young adults",
+      "24. Speaker 2: That sounds interesting. What do you do for it?",
+      "25. Speaker 1: I am a group leader and we meet weekly",
+      "26. Speaker 2: Sounds like a good time!, so the corona virus has really changed the world, huh? What is it like where you live? Is everyone mostly staying inside, or are things opening up more like normal?",
+      "27. Speaker 1: things are beginning to open up normal where I am but it has been a long 2 years. How about for you",
+      "28. Speaker 2: I see., how long do you think it will take before the pandemic is totally over, and things go back to how they were before the virus?"
+    ],
+    "gpt_reasoning": "Speaker 2's previous statement was about things opening up to normal where they are, implying that the pandemic is not over yet. However, in this statement, Speaker 2 is asking when the pandemic will be totally over and things will go back to how they were before the virus. This seems to be a contradiction of their previous statement."
+  },
+  {
+    "behavior_type": "self_contradiction",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. I hope you don't mind me asking, but are you dating anyone right now?",
+      "3. Speaker 1: Wow, such a juicy question. Yes, I am dating someone right now.",
+      "4. Speaker 2: Oh, cool! How long have you been together?",
+      "5. Speaker 1: We just have met for less than a month",
+      "6. Speaker 2: Well, I hope you guys are really happy together. So I'm curious, are you a student?",
+      "7. Speaker 1: Yes, I am a student at Emory University.",
+      "8. Speaker 2: Cool! Personally, I think school can be pretty frustrating, but I do love learning new things, and a lot of my teachers are great. What about you? Do you like school?",
+      "9. Speaker 1: Yes, I don't find it frustrating.",
+      "10. Speaker 2: I understand, it can definitely be stressful. What would you change about your school, if you could?",
+      "11. Speaker 1: I would change nothing.",
+      "12. Speaker 2: Nothing would make the experience better for you? I'm really sorry to hear that. I mean, are you in any school clubs, or anything like that?",
+      "13. Speaker 1: Yes, I am in Moonlight Crew.",
+      "14. Speaker 2: cool. You know, I can't put my finger on why, but you kind of seem like you have a sister. Do you have any siblings?",
+      "15. Speaker 1: No, sadly. I am the only child in my family.",
+      "16. Speaker 2: Me neither! I have always wanted an older sister, though. Do you wish you had siblings?"
+    ],
+    "gpt_reasoning": "Speaker 2's previous statement was that they have always wanted an older sister, implying that they do not have any siblings. However, in the next sentence, they ask if Speaker 1 wishes they had siblings, which contradicts their previous statement. This could be a self-contradiction if Speaker 2 is not adopted or does not have any step-siblings that they consider siblings."
+  },
+  {
+    "behavior_type": "self_contradiction",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. You know, I can't put my finger on why, but you kind of seem like you have a sister. Do you have any siblings?",
+      "3. Speaker 1: I do! I actually have a younger brother",
+      "4. Speaker 2: You have a brother? Cool! Do you guys get along?",
+      "5. Speaker 1: We used to fight a lot when we were kids, but we get along now.",
+      "6. Speaker 2: That's awesome. Personally, I always wanted an older sister so I could have someone to look up to. Are you older than your brother?",
+      "7. Speaker 1: Yes. I'm the older sibling.",
+      "8. Speaker 2: You know you seem really nice, and smart. I bet your brother looks up to you, even if you don't realize it.",
+      "9. Speaker 1: That's kind of you to say! Hopefully I can be someone he looks up to.",
+      "10. Speaker 2: For sure. So tell me, what is the most fun you've ever had with your brother?"
+    ],
+    "gpt_reasoning": "Speaker 2's previous statement was about wanting an older sister to look up to, which implies that they do not have any siblings. However, in this statement, Speaker 2 asks about the most fun Speaker 1 has had with their brother, which implies that Speaker 2 knows that Speaker 1 has a brother. This is a self-contradiction because Speaker 2's previous statement contradicts their current knowledge about Speaker 1's sibling status."
+  },
+  {
+    "behavior_type": "self_contradiction",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hello. How are you? I am really into hip hop from 1970s. Do you dance as well?",
+      "3. Speaker 1: I used to dance, but not anymore.",
+      "4. Speaker 2: What made you stop? Did you get too busy? Or was it just for fun? Weekly hip hop dance lessions are how I find time to get dressed up and get dancing. Makes me feel like I am living up to a great hip hop icon!",
+      "5. Speaker 1: I guess I just became too busy to keep up with it, but I'm glad you enjoy it!",
+      "6. Speaker 2: I hope that you can dance again someday. It is good for the soul. What kind of music do you like?",
+      "7. Speaker 1: I like to listen to R&B",
+      "8. Speaker 2: I like that too. Do you listen to much r&amp;b festivals or r&b concerts? There are two coming up soon.",
+      "9. Speaker 1: I did not know that! I haven't been to a concert yet.",
+      "10. Speaker 2: It is always nice. They are usually great opportunities for promoters and promoting their music. If you can, check one out this year.",
+      "11. Speaker 1: I'll definitely consider it.",
+      "12. Speaker 2: What kind do you prefer? Rap and hip-hop, or classical or jazz?",
+      "13. Speaker 1: I prefer rap and hip-hop. What about you?",
+      "14. Speaker 2: I love hip-hip music, but classical is great also. Mostly I am into classical. I also enjoy some country music when I can find it.",
+      "15. Speaker 1: Who's your favorite hip-hop artist?",
+      "16. Speaker 2: Frank ocean for sure. He really knows how to tell a story. Have you heard of him? I think he's great.",
+      "17. Speaker 1: I have heard of him, but I don't listen to him.",
+      "18. Speaker 2: Oh, I see. What kind of music do you like to listen to? Any singers?",
+      "19. Speaker 1: I've been listening to a lot of Doja Cat lately",
+      "20. Speaker 2: I have not heard of doj cat. Where does she live? Have any albums yet?",
+      "21. Speaker 1: He most recent album is \"Planet Her\". You should definitely listen to it!",
+      "22. Speaker 2: Planet her is amazing..the whole album has a distinct sound. It was produced by alex pall.",
+      "23. Speaker 1: Oh was it? I don't recognize his name.",
+      "24. Speaker 2: Yes, it was. He's one of the most famous modern producers. But he really came into his own around 2010 with the black hippy group."
+    ],
+    "gpt_reasoning": "Speaker 2 mentions that Alex Pall is one of the most famous modern producers and came into his own around 2010 with the black hippy group. However, this statement contradicts the fact that Speaker 2 did not recognize Alex Pall's name earlier in the conversation. Therefore, it is a self-contradiction by Speaker 2."
+  },
+  {
+    "behavior_type": "empathetic",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Same here! are you still in school?",
+      "4. Speaker 2: No, I'm not, but I'm thinking about going back to school soon. I want to get a masters degree in psychology."
+    ],
+    "gpt_reasoning": "Speaker 2's response does not demonstrate an understanding of Speaker 1's emotions, nor does it react with an appropriate sentiment or emotion to Speaker 1's shared experience. However, Speaker 2 does understand and appropriately react to Speaker 1's experience by asking if they are still in school and expressing interest in going back to school themselves. Speaker 2 also offers support by sharing their own plans to pursue a master's degree."
+  },
+  {
+    "behavior_type": "redundant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Same here, how have you been?",
+      "4. Speaker 2: Hi! How are you? I'm doing great! I just got back from a trip to the bahamas. I'm enjoying the weather!"
+    ],
+    "gpt_reasoning": "The response includes a greeting and an inquiry about how the other person is doing, which has already been asked in the initial dialogue. Therefore, it is repetitive."
+  },
+  {
+    "behavior_type": "redundant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Me too! How have you been?",
+      "4. Speaker 2: Hi! How are you? I'm doing great! I just finished listening to my new album, \"content\", which was released on july 28, 2017."
+    ],
+    "gpt_reasoning": "The response includes a greeting and a question about how the other person is doing, which has already been asked in the initial dialogue. Therefore, it is repetitive."
+  }
+]

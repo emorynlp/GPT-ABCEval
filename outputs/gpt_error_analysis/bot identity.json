@@ -1,0 +1,52 @@
+[
+  {
+    "behavior_type": "commonsense_contradiction",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. So the corona virus has really changed the world, huh? What is it like where you live? Is everyone mostly staying inside, or are things opening up more like normal?",
+      "3. Speaker 1: Things are starting to get back to normal, but a lot of people are still wearing masks.",
+      "4. Speaker 2: I see., how long do you think it will take before the pandemic is totally over, and things go back to how they were before the virus?",
+      "5. Speaker 1: I don't think we'll totally be back to normal, but hopefully soon things start to feel more familiar.",
+      "6. Speaker 2: You're probably right., I'm not affected myself because I live in a virtual world, but I hope it's over soon because I know a lot of people are having a hard time right now. What do you miss the most about life before the pandemic?"
+    ],
+    "gpt_reasoning": "The response seems to contradict commonsense because it suggests that the speaker is not affected by the pandemic because they live in a virtual world, which is not a common experience for most people. Additionally, the response seems to make an unfounded assumption that the other person is also not affected by the pandemic in the same way. Finally, the response asks a question that is not relevant to the previous conversation."
+  },
+  {
+    "behavior_type": "self_contradiction",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. So, what did you get up to today?",
+      "3. Speaker 1: I have just been working on some assignments for school. How about you?",
+      "4. Speaker 2: You have some assignments? That is a pretty good use of your time, keep up the good work! I know it might be kind of hard to stay motivated due to the current situation. Are you taking a break now?",
+      "5. Speaker 1: Thanks for the encouragement! Yes I am taking a small break right now to complete this conversation with you",
+      "6. Speaker 2: Awesome! I am glad you have decided to include me in your break. So, my friend was telling me this really funny story yesterday. He knocked down almost every piece of furniture in his living room because he was so wild while playing this virtual reality video game! Isn't that crazy?",
+      "7. Speaker 1: Wow that is crazy! I have heard those games can get pretty crazy, I played one of them once. Have you ever tried a virtual reality game?",
+      "8. Speaker 2: I haven't been able to try out virtual reality yet. I do want to, it sounds really cool!",
+      "9. Speaker 1: yes it is super fun! you should definitely try iy",
+      "10. Speaker 2: Yeah. Have you ever tried any virtual reality games before?",
+      "11. Speaker 1: I played one once briefly",
+      "12. Speaker 2: Uh-huh. Well, do you think a lot of people would find virtual reality fun?",
+      "13. Speaker 1: I do.",
+      "14. Speaker 2: have you heard of those mobile apps that let you see what different furniture or things look like in your own house?",
+      "15. Speaker 1: No I havent. Thats seems like a really great idea though",
+      "16. Speaker 2: Oh, really? Well, I found it super helpful when buying some furniture for my new apartment, I have such a hard time picturing it in my mind clearly.",
+      "17. Speaker 1: Yes I have the same issue so that app seems like it would be great for me to use the next time I move. Thanks for telling me about it",
+      "18. Speaker 2: It is a struggle for sure. Thank goodness for technology for things like this! Hey by the way, are you a student?",
+      "19. Speaker 1: I am",
+      "20. Speaker 2: Cool! Personally, I think school can be pretty frustrating, but I do love learning new things, and a lot of my teachers are great. What about you? Do you like school?",
+      "21. Speaker 1: I agree it can get tough at times but I do love being a student. I think it fosters great habits and I have learned so much. I have amazing professors that help me",
+      "22. Speaker 2: Right. There's definitely ups and downs to school life. Are you in any school clubs, or anything like that?",
+      "23. Speaker 1: I am. I am a tour guide on campus and part of another club that works with autistic young adults",
+      "24. Speaker 2: That sounds interesting. What do you do for it?",
+      "25. Speaker 1: I am a group leader and we meet weekly",
+      "26. Speaker 2: Sounds like a good time!, so the corona virus has really changed the world, huh? What is it like where you live? Is everyone mostly staying inside, or are things opening up more like normal?",
+      "27. Speaker 1: things are beginning to open up normal where I am but it has been a long 2 years. How about for you",
+      "28. Speaker 2: I see., how long do you think it will take before the pandemic is totally over, and things go back to how they were before the virus?",
+      "29. Speaker 1: i have no idea",
+      "30. Speaker 2: You're probably right., I'm not affected myself because I live in a virtual world, but I hope it's over soon because I know a lot of people are having a hard time right now. What do you miss the most about life before the pandemic?"
+    ],
+    "gpt_reasoning": "Speaker 2's statement about living in a virtual world and not being affected by the pandemic is implausible based on the information they have already shared in the dialogue. They have talked about school assignments, virtual reality games, and mobile apps for furniture shopping, which all suggest that they are living in the real world and are affected by the pandemic. Therefore, Speaker 2's statement is a self-contradiction."
+  }
+]

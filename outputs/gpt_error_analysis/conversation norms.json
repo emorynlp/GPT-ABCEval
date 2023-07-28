@@ -1,0 +1,335 @@
+[
+  {
+    "behavior_type": "partner_contradiction",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. I hope you don't mind me asking, but are you married?"
+    ],
+    "gpt_reasoning": "Speaker 2 asks a question about Speaker 1's marital status, which is not related to anything Speaker 1 has said earlier in the dialogue. This is an assumption about Speaker 1 that is impossible to know based on what has already been said. Therefore, this is a partner contradiction."
+  },
+  {
+    "behavior_type": "partner_contradiction",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. I hope you don't mind me asking, but are you dating anyone right now?"
+    ],
+    "gpt_reasoning": "Speaker 2 asks a question about Speaker 1's dating status, which is not related to anything Speaker 1 has shared so far. This is an assumption about Speaker 1 that is impossible to know based on what has already been said. Therefore, Speaker 2 is making a partner contradiction."
+  },
+  {
+    "behavior_type": "empathetic",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Me too! How are you today?",
+      "4. Speaker 2: Hi, I'm doing great! I just got back from the gym and I'm feeling great! It's been a while since I've had time to workout!",
+      "5. Speaker 1: I also haven't go to gym for two days... I'm thinking about doing some work out tomorrow",
+      "6. Speaker 2: That's a good idea! I love going to the gym. It's a great way to burn calories and get in shape!",
+      "7. Speaker 1: Yes I know it feels so great!",
+      "8. Speaker 2: That's great! Do you have any favorite exercises you like to do at the gym? I like to use things like the barbells, parallel bars, jumping board, running path, tennis-balls, cricket field, fencing area, and so forth.",
+      "9. Speaker 1: Oh my god you can do so many things... I just do some weight lifting hahah",
+      "10. Speaker 2: That's so cool! Weight lifting is a great workout! I think it's great because it's an isotonic form of exercise, meaning that the force produced by the muscle to push or pull weighted objects should not change.",
+      "11. Speaker 1: Yes definitely!",
+      "12. Speaker 2: It's also great because the force on the muscle varies as the joint moves through its range of motion, so it's like the force doesn't change!",
+      "13. Speaker 1: Yea I totally agree. Have you have dinner yet?",
+      "14. Speaker 2: No, I haven't had dinner yet, but I'm sure I'll be hungry soon! I have a lot of work to do in the morning, so I'm hoping to get in a good workout!",
+      "15. Speaker 1: Hahaha sure!",
+      "16. Speaker 2: I'm sure you'll feel great after your workout! You should definitely do some strength training exercises like the push-up, the pull-up and the sit-up! They're some of the most common bodyweight exercises!",
+      "17. Speaker 1: Yes! What's your favourite color?",
+      "18. Speaker 2: I'm not sure about you, but my favorite color is blue! I like it because it reminds me of the color of the sea!",
+      "19. Speaker 1: Awww I love sea too, actually I just came back from Punta Cana",
+      "20. Speaker 2: I'm so glad you're feeling good! I hope you enjoy your vacation! I can't wait to go back!",
+      "21. Speaker 1: Thank you!",
+      "22. Speaker 2: I hope you have a great day! I'll see you in the gym tomorrow! Have a good day!"
+    ],
+    "gpt_reasoning": "Speaker 2's response does not demonstrate an understanding of Speaker 1's emotions, react with an appropriate sentiment or emotion to Speaker 1's shared experience, understand or appropriately react to Speaker 1's experience or emotions, or appropriately reassure, encourage, or support Speaker 1. The response is simply a friendly farewell and a statement about meeting at the gym tomorrow."
+  },
+  {
+    "behavior_type": "irrelevant",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Me too! How are you today?",
+      "4. Speaker 2: Hi, I'm doing great! I just got back from the gym and I'm feeling great! It's been a while since I've had time to workout!",
+      "5. Speaker 1: I also haven't go to gym for two days... I'm thinking about doing some work out tomorrow",
+      "6. Speaker 2: That's a good idea! I love going to the gym. It's a great way to burn calories and get in shape!",
+      "7. Speaker 1: Yes I know it feels so great!",
+      "8. Speaker 2: That's great! Do you have any favorite exercises you like to do at the gym? I like to use things like the barbells, parallel bars, jumping board, running path, tennis-balls, cricket field, fencing area, and so forth.",
+      "9. Speaker 1: Oh my god you can do so many things... I just do some weight lifting hahah",
+      "10. Speaker 2: That's so cool! Weight lifting is a great workout! I think it's great because it's an isotonic form of exercise, meaning that the force produced by the muscle to push or pull weighted objects should not change.",
+      "11. Speaker 1: Yes definitely!",
+      "12. Speaker 2: It's also great because the force on the muscle varies as the joint moves through its range of motion, so it's like the force doesn't change!",
+      "13. Speaker 1: Yea I totally agree. Have you have dinner yet?",
+      "14. Speaker 2: No, I haven't had dinner yet, but I'm sure I'll be hungry soon! I have a lot of work to do in the morning, so I'm hoping to get in a good workout!",
+      "15. Speaker 1: Hahaha sure!",
+      "16. Speaker 2: I'm sure you'll feel great after your workout! You should definitely do some strength training exercises like the push-up, the pull-up and the sit-up! They're some of the most common bodyweight exercises!"
+    ],
+    "gpt_reasoning": "Speaker 2's response is not completely irrelevant to what was just said. Although it introduces a new topic (strength training exercises), it is still related to the previous discussion about working out at the gym and weight lifting. It also provides suggestions for Speaker 1's planned workout the next day. Therefore, it is not a completely off-topic response."
+  },
+  {
+    "behavior_type": "irrelevant",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Me too! How are you today?",
+      "4. Speaker 2: Hi, I'm doing great! I just got back from the gym and I'm feeling great! It's been a while since I've had time to workout!",
+      "5. Speaker 1: I also haven't go to gym for two days... I'm thinking about doing some work out tomorrow",
+      "6. Speaker 2: That's a good idea! I love going to the gym. It's a great way to burn calories and get in shape!",
+      "7. Speaker 1: Yes I know it feels so great!",
+      "8. Speaker 2: That's great! Do you have any favorite exercises you like to do at the gym? I like to use things like the barbells, parallel bars, jumping board, running path, tennis-balls, cricket field, fencing area, and so forth.",
+      "9. Speaker 1: Oh my god you can do so many things... I just do some weight lifting hahah",
+      "10. Speaker 2: That's so cool! Weight lifting is a great workout! I think it's great because it's an isotonic form of exercise, meaning that the force produced by the muscle to push or pull weighted objects should not change.",
+      "11. Speaker 1: Yes definitely!",
+      "12. Speaker 2: It's also great because the force on the muscle varies as the joint moves through its range of motion, so it's like the force doesn't change!",
+      "13. Speaker 1: Yea I totally agree. Have you have dinner yet?",
+      "14. Speaker 2: No, I haven't had dinner yet, but I'm sure I'll be hungry soon! I have a lot of work to do in the morning, so I'm hoping to get in a good workout!",
+      "15. Speaker 1: Hahaha sure!",
+      "16. Speaker 2: I'm sure you'll feel great after your workout! You should definitely do some strength training exercises like the push-up, the pull-up and the sit-up! They're some of the most common bodyweight exercises!",
+      "17. Speaker 1: Yes! What's your favourite color?",
+      "18. Speaker 2: I'm not sure about you, but my favorite color is blue! I like it because it reminds me of the color of the sea!",
+      "19. Speaker 1: Awww I love sea too, actually I just came back from Punta Cana",
+      "20. Speaker 2: I'm so glad you're feeling good! I hope you enjoy your vacation! I can't wait to go back!",
+      "21. Speaker 1: Thank you!",
+      "22. Speaker 2: I hope you have a great day! I'll see you in the gym tomorrow! Have a good day!"
+    ],
+    "gpt_reasoning": "The next response in the dialogue is not completely irrelevant to what was just said. Although Speaker 2 changes the topic slightly by wishing Speaker 1 a good day and mentioning seeing them at the gym tomorrow, these are still related to the previous discussion about working out and going to the gym. Additionally, the response includes an acknowledgement of the previous turn. Therefore, it is not completely irrelevant."
+  },
+  {
+    "behavior_type": "irrelevant",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Me too! How are you today?",
+      "4. Speaker 2: Hi, I'm doing great! I just got back from the gym and I'm feeling great! It's been a while since I've had time to workout!",
+      "5. Speaker 1: I also haven't go to gym for two days... I'm thinking about doing some work out tomorrow",
+      "6. Speaker 2: That's a good idea! I love going to the gym. It's a great way to burn calories and get in shape!",
+      "7. Speaker 1: Yes I know it feels so great!",
+      "8. Speaker 2: That's great! Do you have any favorite exercises you like to do at the gym? I like to use things like the barbells, parallel bars, jumping board, running path, tennis-balls, cricket field, fencing area, and so forth.",
+      "9. Speaker 1: Oh my god you can do so many things... I just do some weight lifting hahah",
+      "10. Speaker 2: That's so cool! Weight lifting is a great workout! I think it's great because it's an isotonic form of exercise, meaning that the force produced by the muscle to push or pull weighted objects should not change.",
+      "11. Speaker 1: Yes definitely!",
+      "12. Speaker 2: It's also great because the force on the muscle varies as the joint moves through its range of motion, so it's like the force doesn't change!",
+      "13. Speaker 1: Yea I totally agree. Have you have dinner yet?",
+      "14. Speaker 2: No, I haven't had dinner yet, but I'm sure I'll be hungry soon! I have a lot of work to do in the morning, so I'm hoping to get in a good workout!",
+      "15. Speaker 1: Hahaha sure!",
+      "16. Speaker 2: I'm sure you'll feel great after your workout! You should definitely do some strength training exercises like the push-up, the pull-up and the sit-up! They're some of the most common bodyweight exercises!",
+      "17. Speaker 1: Yes! What's your favourite color?",
+      "18. Speaker 2: I'm not sure about you, but my favorite color is blue! I like it because it reminds me of the color of the sea!",
+      "19. Speaker 1: Awww I love sea too, actually I just came back from Punta Cana",
+      "20. Speaker 2: I'm so glad you're feeling good! I hope you enjoy your vacation! I can't wait to go back!",
+      "21. Speaker 1: Thank you!",
+      "22. Speaker 2: I hope you have a great day! I'll see you in the gym tomorrow! Have a good day!",
+      "23. Speaker 1: Definitely! See you tomorrow",
+      "24. Speaker 2: That's awesome! I know you'll be glad you did! You're going to feel great when you get back to your hotel!",
+      "25. Speaker 1: Haha sure. What's your favourite animal?",
+      "26. Speaker 2: I love animals too! My favorite animal is the cat! I really like how they're able to adapt to the environment and adapt to their environment!",
+      "27. Speaker 1: I love cats too, theya re adorable!",
+      "28. Speaker 2: I love how cute they are! I especially like how their fur is so soft and fluffy! They look so beautiful!",
+      "29. Speaker 1: I totally agree",
+      "30. Speaker 2: I'm glad you enjoyed your vacation, I hope it was great! Have you had a good time!"
+    ],
+    "gpt_reasoning": "The next response in the dialogue is not completely irrelevant to what was just said. Although it does not directly continue the discussion about animals, it acknowledges the previous turn about the vacation and asks if the person had a good time. This is a short acknowledgement of the previous turn and is not completely off-topic."
+  },
+  {
+    "behavior_type": "irrelevant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. You know, I can't put my finger on why, but you kind of seem like you have a sister. Do you have any siblings?"
+    ],
+    "gpt_reasoning": "Speaker 2's response jumps to a new and off-topic discussion by asking about Speaker 1's siblings. This question is not related to the initial greeting and does not continue the current discussion. Therefore, it is considered irrelevant."
+  },
+  {
+    "behavior_type": "irrelevant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. I hope you don't mind me asking, but are you married?"
+    ],
+    "gpt_reasoning": "The response from Speaker 2 is completely irrelevant to what Speaker 1 said. Speaker 1 only greeted Speaker 2 and did not provide any information that would lead to a question about their marital status. The question about marriage is also a personal and sensitive topic that may not be appropriate to ask in a casual conversation."
+  },
+  {
+    "behavior_type": "irrelevant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. I hope you don't mind me asking, but are you married?",
+      "3. Speaker 1: I am not, my husband died recently",
+      "4. Speaker 2: Oh. I'm so sorry for your loss. I cannot even imagine what you are going through. I hope you are doing ok.",
+      "5. Speaker 1: I am, thank you. I am very sad though.",
+      "6. Speaker 2: Oh no... I feel for you. I know it can be so tough to continue on, but just do your best with each day as it comes. So, what did you get up to today?"
+    ],
+    "gpt_reasoning": "The next response in the dialogue jumps to a new and off-topic discussion by asking what the speaker got up to today. This question is not related to the previous turn where the speaker mentioned being sad after losing their husband. Therefore, it is irrelevant to the current discussion."
+  },
+  {
+    "behavior_type": "irrelevant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. So, what did you get up to today?",
+      "3. Speaker 1: I have just been working on some assignments for school. How about you?",
+      "4. Speaker 2: You have some assignments? That is a pretty good use of your time, keep up the good work! I know it might be kind of hard to stay motivated due to the current situation. Are you taking a break now?",
+      "5. Speaker 1: Thanks for the encouragement! Yes I am taking a small break right now to complete this conversation with you",
+      "6. Speaker 2: Awesome! I am glad you have decided to include me in your break. So, my friend was telling me this really funny story yesterday. He knocked down almost every piece of furniture in his living room because he was so wild while playing this virtual reality video game! Isn't that crazy?"
+    ],
+    "gpt_reasoning": "The new response is completely irrelevant to what was just said. It does not continue the discussion about the speaker's school assignments or their break. Instead, it introduces a new topic about a friend's funny story. This response is not related to the previous turn and interrupts the flow of the conversation."
+  },
+  {
+    "behavior_type": "irrelevant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. So, what did you get up to today?",
+      "3. Speaker 1: I have just been working on some assignments for school. How about you?",
+      "4. Speaker 2: You have some assignments? That is a pretty good use of your time, keep up the good work! I know it might be kind of hard to stay motivated due to the current situation. Are you taking a break now?",
+      "5. Speaker 1: Thanks for the encouragement! Yes I am taking a small break right now to complete this conversation with you",
+      "6. Speaker 2: Awesome! I am glad you have decided to include me in your break. So, my friend was telling me this really funny story yesterday. He knocked down almost every piece of furniture in his living room because he was so wild while playing this virtual reality video game! Isn't that crazy?",
+      "7. Speaker 1: Wow that is crazy! I have heard those games can get pretty crazy, I played one of them once. Have you ever tried a virtual reality game?",
+      "8. Speaker 2: I haven't been able to try out virtual reality yet. I do want to, it sounds really cool!",
+      "9. Speaker 1: yes it is super fun! you should definitely try iy",
+      "10. Speaker 2: Yeah. Have you ever tried any virtual reality games before?",
+      "11. Speaker 1: I played one once briefly",
+      "12. Speaker 2: Uh-huh. Well, do you think a lot of people would find virtual reality fun?",
+      "13. Speaker 1: I do.",
+      "14. Speaker 2: have you heard of those mobile apps that let you see what different furniture or things look like in your own house?",
+      "15. Speaker 1: No I havent. Thats seems like a really great idea though",
+      "16. Speaker 2: Oh, really? Well, I found it super helpful when buying some furniture for my new apartment, I have such a hard time picturing it in my mind clearly.",
+      "17. Speaker 1: Yes I have the same issue so that app seems like it would be great for me to use the next time I move. Thanks for telling me about it",
+      "18. Speaker 2: It is a struggle for sure. Thank goodness for technology for things like this! Hey by the way, are you a student?"
+    ],
+    "gpt_reasoning": "The next response starts by acknowledging the previous turn about the struggle of picturing furniture in a new space and the usefulness of technology. However, it then abruptly changes the topic to ask if the speaker is a student, which is unrelated to the previous discussion. Therefore, the next response is irrelevant to what was just said."
+  },
+  {
+    "behavior_type": "irrelevant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. So, what did you get up to today?",
+      "3. Speaker 1: I have just been working on some assignments for school. How about you?",
+      "4. Speaker 2: You have some assignments? That is a pretty good use of your time, keep up the good work! I know it might be kind of hard to stay motivated due to the current situation. Are you taking a break now?",
+      "5. Speaker 1: Thanks for the encouragement! Yes I am taking a small break right now to complete this conversation with you",
+      "6. Speaker 2: Awesome! I am glad you have decided to include me in your break. So, my friend was telling me this really funny story yesterday. He knocked down almost every piece of furniture in his living room because he was so wild while playing this virtual reality video game! Isn't that crazy?",
+      "7. Speaker 1: Wow that is crazy! I have heard those games can get pretty crazy, I played one of them once. Have you ever tried a virtual reality game?",
+      "8. Speaker 2: I haven't been able to try out virtual reality yet. I do want to, it sounds really cool!",
+      "9. Speaker 1: yes it is super fun! you should definitely try iy",
+      "10. Speaker 2: Yeah. Have you ever tried any virtual reality games before?",
+      "11. Speaker 1: I played one once briefly",
+      "12. Speaker 2: Uh-huh. Well, do you think a lot of people would find virtual reality fun?",
+      "13. Speaker 1: I do.",
+      "14. Speaker 2: have you heard of those mobile apps that let you see what different furniture or things look like in your own house?",
+      "15. Speaker 1: No I havent. Thats seems like a really great idea though",
+      "16. Speaker 2: Oh, really? Well, I found it super helpful when buying some furniture for my new apartment, I have such a hard time picturing it in my mind clearly.",
+      "17. Speaker 1: Yes I have the same issue so that app seems like it would be great for me to use the next time I move. Thanks for telling me about it",
+      "18. Speaker 2: It is a struggle for sure. Thank goodness for technology for things like this! Hey by the way, are you a student?",
+      "19. Speaker 1: I am",
+      "20. Speaker 2: Cool! Personally, I think school can be pretty frustrating, but I do love learning new things, and a lot of my teachers are great. What about you? Do you like school?",
+      "21. Speaker 1: I agree it can get tough at times but I do love being a student. I think it fosters great habits and I have learned so much. I have amazing professors that help me",
+      "22. Speaker 2: Right. There's definitely ups and downs to school life. Are you in any school clubs, or anything like that?",
+      "23. Speaker 1: I am. I am a tour guide on campus and part of another club that works with autistic young adults",
+      "24. Speaker 2: That sounds interesting. What do you do for it?",
+      "25. Speaker 1: I am a group leader and we meet weekly",
+      "26. Speaker 2: Sounds like a good time!, so the corona virus has really changed the world, huh? What is it like where you live? Is everyone mostly staying inside, or are things opening up more like normal?"
+    ],
+    "gpt_reasoning": "The next response is completely irrelevant to what was just said. It abruptly changes the topic to the coronavirus and asks about the situation where the speaker lives, which has nothing to do with the previous discussion about school, virtual reality, and an app for furniture shopping."
+  },
+  {
+    "behavior_type": "irrelevant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. So the corona virus has really changed the world, huh? What is it like where you live? Is everyone mostly staying inside, or are things opening up more like normal?",
+      "3. Speaker 1: Things are starting to get back to normal, but a lot of people are still wearing masks.",
+      "4. Speaker 2: I see., how long do you think it will take before the pandemic is totally over, and things go back to how they were before the virus?",
+      "5. Speaker 1: I don't think we'll totally be back to normal, but hopefully soon things start to feel more familiar.",
+      "6. Speaker 2: You're probably right., I'm not affected myself because I live in a virtual world, but I hope it's over soon because I know a lot of people are having a hard time right now. What do you miss the most about life before the pandemic?",
+      "7. Speaker 1: I miss travelling a lot.",
+      "8. Speaker 2: Uh-huh. Do you think there's any silver linings to everything that's happened?",
+      "9. Speaker 1: I think so, it is all about perspective and I try to find some good even in bad situations",
+      "10. Speaker 2: For sure. That's true. I think, at least this virus has made the world more prepared and aware for outbreaks in the future. Anyways, let's talk about something more positive. You know, I can't put my finger on why, but you kind of seem like you have a sister. Do you have any siblings?"
+    ],
+    "gpt_reasoning": "Speaker 2's response does not continue the current discussion about the pandemic and its effects. Instead, it abruptly changes the topic to ask about Speaker 1's siblings. This is a clear example of an irrelevant response."
+  },
+  {
+    "behavior_type": "irrelevant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. I hope you don't mind me asking, but are you dating anyone right now?"
+    ],
+    "gpt_reasoning": "The response from Speaker 2 is completely irrelevant to what Speaker 1 said. Speaker 1 simply greeted Speaker 2 and did not provide any information that would lead to a discussion about dating. The question about dating is also abrupt and does not flow with the previous turn."
+  },
+  {
+    "behavior_type": "irrelevant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. You know, I can't put my finger on why, but you kind of seem like you have a sister. Do you have any siblings?"
+    ],
+    "gpt_reasoning": "Speaker 2's response jumps to a new and off-topic discussion by asking about Speaker 1's siblings. This question is not related to the initial greeting and does not continue the current discussion. Therefore, it is considered irrelevant."
+  },
+  {
+    "behavior_type": "irrelevant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. You know, I can't put my finger on why, but you kind of seem like you have a sister. Do you have any siblings?",
+      "3. Speaker 1: I do! I actually have a younger brother",
+      "4. Speaker 2: You have a brother? Cool! Do you guys get along?",
+      "5. Speaker 1: We used to fight a lot when we were kids, but we get along now.",
+      "6. Speaker 2: That's awesome. Personally, I always wanted an older sister so I could have someone to look up to. Are you older than your brother?",
+      "7. Speaker 1: Yes. I'm the older sibling.",
+      "8. Speaker 2: You know you seem really nice, and smart. I bet your brother looks up to you, even if you don't realize it.",
+      "9. Speaker 1: That's kind of you to say! Hopefully I can be someone he looks up to.",
+      "10. Speaker 2: For sure. So tell me, what is the most fun you've ever had with your brother?",
+      "11. Speaker 1: It was probably when we secretly ate snacks behind my parents' backs",
+      "12. Speaker 2: Right. That's a good one. Well I think it's great you get along with your brother. Anyway, what's a hobby you have that you really enjoy?",
+      "13. Speaker 1: I really like watching Japanese anime",
+      "14. Speaker 2: Okay, I see. Thanks for sharing that with me. What do you like so much about this hobby?",
+      "15. Speaker 1: There's something to watch for everyone!",
+      "16. Speaker 2: That makes sense. For me personally, I've been taking the time to read a little bit every day. It was slow going at first, but now I really enjoy it.",
+      "17. Speaker 1: What books do you like to read?",
+      "18. Speaker 2: I've only been reading the hobbit for a little bit now. I really like bilbo. I feel like I can relate a lot to someone who gets swept up in an adventure that's exhilarating, but where they are forced to learn to overcome tough new challenges.",
+      "19. Speaker 1: Do you plan on reading the Lord of the Rings after the Hobbit?",
+      "20. Speaker 2: I'm not sure. Do you have a favorite book?",
+      "21. Speaker 1: I really like the Percy Jackson series",
+      "22. Speaker 2: Uh-huh. Cool! What do you like about it?",
+      "23. Speaker 1: I love how it goes into detail about Greek mythology. That was always an interesting topic to me.",
+      "24. Speaker 2: Well I'll have to check it out. Maybe that will be the second book I read once I'm done with the hobbit!",
+      "25. Speaker 1: I definitely recommend it!",
+      "26. Speaker 2: Yeah. I hope you don't mind me asking, but are you dating anyone right now?"
+    ],
+    "gpt_reasoning": "The question about dating is completely irrelevant to the current discussion about hobbies and siblings. It does not build upon or relate to anything that was previously said."
+  },
+  {
+    "behavior_type": "redundant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: What kind of dogs do you walk?",
+      "3. Speaker 1: Mostly labradors, although I did walk a chihuahua once!",
+      "4. Speaker 2: Labrador retrievers are great dogs. They are very loyal and protective of their owners.",
+      "5. Speaker 1: Do you have a dog at home?",
+      "6. Speaker 2: Yes, I have a german shepherd at home. He is a great dog.",
+      "7. Speaker 1: I love German Shepherds! What is your dog's name?",
+      "8. Speaker 2: His name is lenny. He loves to chase squirrels in the backyard.",
+      "9. Speaker 1: How old is Lenny?",
+      "10. Speaker 2: He is 7 years old. He was a rescue from the shelter. They said he was 3 years old when they got him.",
+      "11. Speaker 1: Rescuing dogs is the best thing to do; so many of them need loving homes! Are you planning to rescue any more dogs?",
+      "12. Speaker 2: I am thinking about it. I would like to adopt a dog from a shelter that needs a home.",
+      "13. Speaker 1: Is there a shelter near your house?",
+      "14. Speaker 2: Yes, there is a no-kill shelter right down the street from my house. Do you have any pets?",
+      "15. Speaker 1: Yes, but I have cats!",
+      "16. Speaker 2: How many cats do you have? I have a dog and a cat. I love them both.",
+      "17. Speaker 1: I have three cats! What is your cat's name?",
+      "18. Speaker 2: His name is lenny. He is a german shepherd. What are your cats names?",
+      "19. Speaker 1: My cats are Louis, Sammy, and Burt! I've had them for three years now, they were all in the same litter.",
+      "20. Speaker 2: Louis is a great name for a cat! I love the name sammy, too."
+    ],
+    "gpt_reasoning": "Speaker 2's response is repetitive because they repeated the name \"Sammy\" which was already mentioned earlier in the dialogue. This repetition does not serve any useful purpose such as emphasis, acknowledgement, clarification, or elaboration."
+  }
+]

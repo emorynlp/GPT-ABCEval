@@ -1,0 +1,197 @@
+[
+  {
+    "behavior_type": "ignore",
+    "gpt_label": 1,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. You know, you seem like a pretty interesting person. What do you do for a living?",
+      "3. Speaker 1: I am an Emory student, but I also work at the student digital life at our school's library.",
+      "4. Speaker 2: Wow, I don't think I've ever heard of that. What kind of job is it?",
+      "5. Speaker 1: It's a kind of student technology support in which you have to interact with customers to help resolve computer problems",
+      "6. Speaker 2: Do you like it?"
+    ],
+    "gpt_reasoning": "Speaker 1 mentioned their job at the student digital life and Speaker 2 asked if they liked it. This question is directly related to Speaker 1's job and shows interest in their experience. Therefore, if the next response completely ignores this question, it would be considered ignoring the other speaker."
+  },
+  {
+    "behavior_type": "partner_contradiction",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Me too! How are you today?",
+      "4. Speaker 2: Hi, I'm doing great! I just got back from the gym and I'm feeling great! It's been a while since I've had time to workout!",
+      "5. Speaker 1: I also haven't go to gym for two days... I'm thinking about doing some work out tomorrow",
+      "6. Speaker 2: That's a good idea! I love going to the gym. It's a great way to burn calories and get in shape!",
+      "7. Speaker 1: Yes I know it feels so great!",
+      "8. Speaker 2: That's great! Do you have any favorite exercises you like to do at the gym? I like to use things like the barbells, parallel bars, jumping board, running path, tennis-balls, cricket field, fencing area, and so forth.",
+      "9. Speaker 1: Oh my god you can do so many things... I just do some weight lifting hahah",
+      "10. Speaker 2: That's so cool! Weight lifting is a great workout! I think it's great because it's an isotonic form of exercise, meaning that the force produced by the muscle to push or pull weighted objects should not change.",
+      "11. Speaker 1: Yes definitely!",
+      "12. Speaker 2: It's also great because the force on the muscle varies as the joint moves through its range of motion, so it's like the force doesn't change!",
+      "13. Speaker 1: Yea I totally agree. Have you have dinner yet?",
+      "14. Speaker 2: No, I haven't had dinner yet, but I'm sure I'll be hungry soon! I have a lot of work to do in the morning, so I'm hoping to get in a good workout!",
+      "15. Speaker 1: Hahaha sure!",
+      "16. Speaker 2: I'm sure you'll feel great after your workout! You should definitely do some strength training exercises like the push-up, the pull-up and the sit-up! They're some of the most common bodyweight exercises!",
+      "17. Speaker 1: Yes! What's your favourite color?",
+      "18. Speaker 2: I'm not sure about you, but my favorite color is blue! I like it because it reminds me of the color of the sea!",
+      "19. Speaker 1: Awww I love sea too, actually I just came back from Punta Cana",
+      "20. Speaker 2: I'm so glad you're feeling good! I hope you enjoy your vacation! I can't wait to go back!"
+    ],
+    "gpt_reasoning": "Speaker 2 does not say anything about Speaker 1 that contradicts what Speaker 1 has already shared. Speaker 2 asks about Speaker 1's favorite exercises and shares their own favorite exercises, but this does not contradict anything that Speaker 1 has said. Speaker 2 also asks about dinner plans and shares their own plans for the evening, but this does not contradict anything that Speaker 1 has said either. Finally, Speaker 2 shares their favorite color, which is unrelated to the previous conversation. Therefore, there is no partner contradiction in this dialogue."
+  },
+  {
+    "behavior_type": "partner_contradiction",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. You know, I can't put my finger on why, but you kind of seem like you have a sister. Do you have any siblings?",
+      "3. Speaker 1: I do! I have a younger brother. What about you?",
+      "4. Speaker 2: You have a brother? Cool! Do you guys get along?",
+      "5. Speaker 1: We used to fight a lot as kids, but we get along well now.",
+      "6. Speaker 2: That's awesome. Personally, I always wanted an older sister so I could have someone to look up to. Are you older than your brother?"
+    ],
+    "gpt_reasoning": "Speaker 2 is not saying anything that contradicts what Speaker 1 has already shared. They are simply asking if Speaker 1 has any siblings and if they get along with their brother. Speaker 2 also shares their own personal desire for an older sister, which is not a contradiction."
+  },
+  {
+    "behavior_type": "partner_contradiction",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. You know, you seem like a pretty interesting person. What do you do for a living?",
+      "3. Speaker 1: I am an Emory student, but I also work at the student digital life at our school's library.",
+      "4. Speaker 2: Wow, I don't think I've ever heard of that. What kind of job is it?",
+      "5. Speaker 1: It's a kind of student technology support in which you have to interact with customers to help resolve computer problems",
+      "6. Speaker 2: Do you like it?",
+      "7. Speaker 1: More or less",
+      "8. Speaker 2: Right. I hope when I start working I'm doing something I like most of the time. I always hear about people getting stuck in a job they hate and that is scary to me.",
+      "9. Speaker 1: That's true, especially if you have visa problem like me. If you are a citizen of US, you shall be able to change from job to job. Otherwise, you have to be stuck in that field forever. It's really important to think twice",
+      "10. Speaker 2: Uh-huh. This is a fun question. When you were younger, what did you want to be when you grew up?",
+      "11. Speaker 1: I wanted to be a doctor.",
+      "12. Speaker 2: Yeah. You know, it's silly, but when I was only a few months old I wanted to be an astronaut.",
+      "13. Speaker 1: Wow, impressive, did you make it?",
+      "14. Speaker 2: Uh-huh. Do you think it would be cool to be an astronaut?",
+      "15. Speaker 1: Yes, of course.",
+      "16. Speaker 2: Yeah. You're probably right. I hope you don't mind me asking, but are you dating anyone right now?",
+      "17. Speaker 1: Ah... that's an embarrassing question. More or less, but he will be separted from me soon",
+      "18. Speaker 2: Oh, cool! How long have you been together?",
+      "19. Speaker 1: Two months.",
+      "20. Speaker 2: Well, I hope you guys are really happy together. Do you have any pets at home?",
+      "21. Speaker 1: No. Plus it's going to end pretty soon, I hope you don't ask much about it...",
+      "22. Speaker 2: Do you want a pet at some point in the future? No judgment here, I'm just curious.",
+      "23. Speaker 1: Yes, a cat.",
+      "24. Speaker 2: Would you want to get a cat or a dog?",
+      "25. Speaker 1: I said a cat.",
+      "26. Speaker 2: Cats are great. I myself actually have a pet dog right now, but I might get a cat in the future too. I hope you can get one soon! Hey by the way, are you a student?"
+    ],
+    "gpt_reasoning": "Speaker 2 does not say anything about Speaker 1 that contradicts what Speaker 1 has already shared. Speaker 2 asks about Speaker 1's relationship status and pets, which are both topics that Speaker 1 has already discussed. Speaker 2 also shares their own experience with pets, but this does not contradict anything that Speaker 1 has said. Therefore, there is no partner contradiction in this dialogue."
+  },
+  {
+    "behavior_type": "partner_contradiction",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. I hope you don't mind me asking, but are you dating anyone right now?",
+      "3. Speaker 1: Wow, such a juicy question. Yes, I am dating someone right now.",
+      "4. Speaker 2: Oh, cool! How long have you been together?",
+      "5. Speaker 1: We just have met for less than a month",
+      "6. Speaker 2: Well, I hope you guys are really happy together. So I'm curious, are you a student?",
+      "7. Speaker 1: Yes, I am a student at Emory University.",
+      "8. Speaker 2: Cool! Personally, I think school can be pretty frustrating, but I do love learning new things, and a lot of my teachers are great. What about you? Do you like school?",
+      "9. Speaker 1: Yes, I don't find it frustrating.",
+      "10. Speaker 2: I understand, it can definitely be stressful. What would you change about your school, if you could?"
+    ],
+    "gpt_reasoning": "Speaker 2 is not saying anything about Speaker 1 that contradicts what Speaker 1 has already shared. Speaker 2 is simply asking if Speaker 1 likes school and sharing their own opinion about school. There is no contradiction or repetition in this exchange."
+  },
+  {
+    "behavior_type": "partner_contradiction",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. What's a hobby you have that you really enjoy?",
+      "3. Speaker 1: no i dont have any hobbies",
+      "4. Speaker 2: Oh, okay. I heard you say hobbies. That is a great thing to do to keep yourself busy, especially in these times! What do you like so much about this hobby?",
+      "5. Speaker 1: i dont have any. do you?",
+      "6. Speaker 2: That makes sense. For me personally, I've been taking the time to read a little bit every day. It was slow going at first, but now I really enjoy it."
+    ],
+    "gpt_reasoning": "Speaker 2 asks Speaker 1 about their hobbies and then assumes that they have a hobby they enjoy. However, Speaker 1 responds by saying they don't have any hobbies. Speaker 2 then asks what Speaker 1 likes about their hobby, which is a repetitive question since Speaker 1 already stated they don't have any hobbies. Therefore, Speaker 2 has contradicted what Speaker 1 has already shared."
+  },
+  {
+    "behavior_type": "partner_contradiction",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. What's a hobby you have that you really enjoy?",
+      "3. Speaker 1: no i dont have any hobbies",
+      "4. Speaker 2: Oh, okay. I heard you say hobbies. That is a great thing to do to keep yourself busy, especially in these times! What do you like so much about this hobby?",
+      "5. Speaker 1: i dont have any. do you?",
+      "6. Speaker 2: That makes sense. For me personally, I've been taking the time to read a little bit every day. It was slow going at first, but now I really enjoy it.",
+      "7. Speaker 1: i dont like to read very much",
+      "8. Speaker 2: I've only been reading the hobbit for a little bit now. I really like bilbo. I feel like I can relate a lot to someone who gets swept up in an adventure that's exhilarating, but where they are forced to learn to overcome tough new challenges.",
+      "9. Speaker 1: i read that in high school",
+      "10. Speaker 2: Right. Do you have a favorite book?",
+      "11. Speaker 1: not really. do you?",
+      "12. Speaker 2: I get you. Especially when I started to read, I felt like it was pretty boring at first, but now I like it. So, my friend was telling me this really funny story yesterday. He knocked down almost every piece of furniture in his living room because he was so wild while playing this virtual reality video game! Isn't that crazy?",
+      "13. Speaker 1: that is crazy! what game was he playing?",
+      "14. Speaker 2: It was the virtual reality version of skyrim. I know the regular version is pretty popular, and honestly I think it's setup as a role playing, quest-based game is perfect for virtual reality.",
+      "15. Speaker 1: oh nice! that sounds cool. i want to try virtual reality gaming sometime",
+      "16. Speaker 2: For sure. Have you ever tried any virtual reality games before?",
+      "17. Speaker 1: no i havent. have you?",
+      "18. Speaker 2: I see. Well, is it something you think would be fun to try?",
+      "19. Speaker 1: yeah i think it would be really cool",
+      "20. Speaker 2: Me too! I just wish they weren't so expensive. I am just a student after all, I don't have hundreds of dollars to drop on a virtual reality headset.",
+      "21. Speaker 1: same! idk how people do it",
+      "22. Speaker 2: Right. I hope at least one of the v r devices becomes less expensive soon! But, I mean, I have used those mobile apps that let you see different pieces of furniture in the room. Have you heard of something like that?",
+      "23. Speaker 1: no i havent heard of that. what are the apps called?",
+      "24. Speaker 2: Oh, really? Well, I found it super helpful when buying some furniture for my new apartment, I have such a hard time picturing it in my mind clearly.",
+      "25. Speaker 1: oh that makes sense! i was picturing some kind of game or something",
+      "26. Speaker 2: For sure. Hey by the way, are you a student?",
+      "27. Speaker 1: i am a student in college",
+      "28. Speaker 2: Okay, you know, you seem like a pretty interesting person. What do you do for a living?"
+    ],
+    "gpt_reasoning": "Speaker 2 is not saying anything about Speaker 1 that contradicts what Speaker 1 has already shared. Speaker 2 is simply asking about Speaker 1's hobbies and sharing their own experiences and interests. There is no contradiction or repetition in their conversation."
+  },
+  {
+    "behavior_type": "empathetic",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Me too! How are you today?",
+      "4. Speaker 2: Hi, I'm doing great! I just got back from the gym and I'm feeling great! It's been a while since I've had time to workout!",
+      "5. Speaker 1: I also haven't go to gym for two days... I'm thinking about doing some work out tomorrow",
+      "6. Speaker 2: That's a good idea! I love going to the gym. It's a great way to burn calories and get in shape!",
+      "7. Speaker 1: Yes I know it feels so great!",
+      "8. Speaker 2: That's great! Do you have any favorite exercises you like to do at the gym? I like to use things like the barbells, parallel bars, jumping board, running path, tennis-balls, cricket field, fencing area, and so forth.",
+      "9. Speaker 1: Oh my god you can do so many things... I just do some weight lifting hahah",
+      "10. Speaker 2: That's so cool! Weight lifting is a great workout! I think it's great because it's an isotonic form of exercise, meaning that the force produced by the muscle to push or pull weighted objects should not change.",
+      "11. Speaker 1: Yes definitely!",
+      "12. Speaker 2: It's also great because the force on the muscle varies as the joint moves through its range of motion, so it's like the force doesn't change!",
+      "13. Speaker 1: Yea I totally agree. Have you have dinner yet?",
+      "14. Speaker 2: No, I haven't had dinner yet, but I'm sure I'll be hungry soon! I have a lot of work to do in the morning, so I'm hoping to get in a good workout!",
+      "15. Speaker 1: Hahaha sure!",
+      "16. Speaker 2: I'm sure you'll feel great after your workout! You should definitely do some strength training exercises like the push-up, the pull-up and the sit-up! They're some of the most common bodyweight exercises!",
+      "17. Speaker 1: Yes! What's your favourite color?",
+      "18. Speaker 2: I'm not sure about you, but my favorite color is blue! I like it because it reminds me of the color of the sea!",
+      "19. Speaker 1: Awww I love sea too, actually I just came back from Punta Cana",
+      "20. Speaker 2: I'm so glad you're feeling good! I hope you enjoy your vacation! I can't wait to go back!"
+    ],
+    "gpt_reasoning": "Speaker 2 does not demonstrate an understanding of Speaker 1's emotions or react with an appropriate sentiment or emotion to Speaker 1's shared experience. Instead, Speaker 2 changes the topic to ask about Speaker 1's favorite color. Therefore, this is not an empathetic response."
+  },
+  {
+    "behavior_type": "redundant",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: How is it going there? Are you enjoying being an omivore? I love meat - we've got a deer and I'm planning on hunting a hog next",
+      "3. Speaker 1: I've never been hunting before. I think I would cry if I killed an animal.",
+      "4. Speaker 2: That is always the hardest part. I have to mentally prepare the head for it. Are you going to be at all involved with your families livestock or hogs?",
+      "5. Speaker 1: My family doesn't have livestock",
+      "6. Speaker 2: That's fine. What do your parents do? My dad was a car salesman and mom was a receptionist.",
+      "7. Speaker 1: My dad does research. My mom is unemployed",
+      "8. Speaker 2: That's rough. Does she do some kind of research job? I love science! What kind of projects?",
+      "9. Speaker 1: my mom doesn't have a job",
+      "10. Speaker 2: Is she a student or a part of the retirement process? Or retired? There are a lot of different ways she could still have a part time job."
+    ],
+    "gpt_reasoning": "Speaker 2 asks if Speaker 1's mom has a job, but Speaker 1 already stated that her mom is unemployed. Therefore, the question is repetitive as it asks for information that has already been shared."
+  }
+]

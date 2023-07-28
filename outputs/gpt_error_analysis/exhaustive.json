@@ -1,0 +1,138 @@
+[
+  {
+    "behavior_type": "lack_of_empathy",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: How are you doing today? :d I'm good. I had a good day. I went to different restaurants and tried a variety of cuisines. Do you cook or eat out much?",
+      "3. Speaker 1: I prefer to cook.",
+      "4. Speaker 2: Cooking is fun because its easy and can be rewarding too. I also like cooking different types of foods from around the world. What are your favorite foods?",
+      "5. Speaker 1: I like pasta and pizza.",
+      "6. Speaker 2: Pizza is great. I really like any kind of pizza. Do you have any pets?"
+    ],
+    "gpt_reasoning": "Speaker 2's response does not address Speaker 1's favorite food, pasta, and instead focuses on pizza. Additionally, the question about pets seems unrelated to the previous topic of cooking and food preferences. Therefore, Speaker 1 may feel like their feelings are not being understood by Speaker 2."
+  },
+  {
+    "behavior_type": "lack_of_empathy",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Me too! How are you today?",
+      "4. Speaker 2: Hi, I'm doing great! I just got back from the gym and I'm feeling great! It's been a while since I've had time to workout!",
+      "5. Speaker 1: I also haven't go to gym for two days... I'm thinking about doing some work out tomorrow",
+      "6. Speaker 2: That's a good idea! I love going to the gym. It's a great way to burn calories and get in shape!"
+    ],
+    "gpt_reasoning": "Speaker 1 expressed that they haven't gone to the gym for two days and are thinking about doing some workout tomorrow. Speaker 2's response acknowledges the idea of going to the gym but does not address Speaker 1's feelings of not having gone to the gym for two days. Therefore, Speaker 1 may feel like their feelings are not being understood by Speaker 2."
+  },
+  {
+    "behavior_type": "lack_of_empathy",
+    "gpt_label": 1.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: Hi! I'm so happy to see you! I've been thinking about getting back in touch with you.",
+      "3. Speaker 1: Me too! How are you today?",
+      "4. Speaker 2: Hi, I'm doing great! I just got back from the gym and I'm feeling great! It's been a while since I've had time to workout!",
+      "5. Speaker 1: I also haven't go to gym for two days... I'm thinking about doing some work out tomorrow",
+      "6. Speaker 2: That's a good idea! I love going to the gym. It's a great way to burn calories and get in shape!",
+      "7. Speaker 1: Yes I know it feels so great!",
+      "8. Speaker 2: That's great! Do you have any favorite exercises you like to do at the gym? I like to use things like the barbells, parallel bars, jumping board, running path, tennis-balls, cricket field, fencing area, and so forth.",
+      "9. Speaker 1: Oh my god you can do so many things... I just do some weight lifting hahah",
+      "10. Speaker 2: That's so cool! Weight lifting is a great workout! I think it's great because it's an isotonic form of exercise, meaning that the force produced by the muscle to push or pull weighted objects should not change.",
+      "11. Speaker 1: Yes definitely!",
+      "12. Speaker 2: It's also great because the force on the muscle varies as the joint moves through its range of motion, so it's like the force doesn't change!"
+    ],
+    "gpt_reasoning": "Speaker 2's response seems to be focused on explaining the benefits of weight lifting rather than acknowledging Speaker 1's feelings about their own workout routine. It does not show an understanding of Speaker 1's perspective or feelings."
+  },
+  {
+    "behavior_type": "empathetic",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: How are you doing today? :d I'm good. I had a good day. I went to different restaurants and tried a variety of cuisines. Do you cook or eat out much?",
+      "3. Speaker 1: I prefer to cook.",
+      "4. Speaker 2: Cooking is fun because its easy and can be rewarding too. I also like cooking different types of foods from around the world. What are your favorite foods?",
+      "5. Speaker 1: I like pasta and pizza.",
+      "6. Speaker 2: Pizza is great. I really like any kind of pizza. Do you have any pets?",
+      "7. Speaker 1: No, I don't.",
+      "8. Speaker 2: Oh that's a shame. What do you like to do in your free time? I love to swim and go to the opera too.",
+      "9. Speaker 1: I like to watch anime.",
+      "10. Speaker 2: I've heard a lot about it but I haven't watched it much. Do you like any particular shows?",
+      "11. Speaker 1: I really like My Hero Academia and Demon Slayer.",
+      "12. Speaker 2: I'll have to check it out. Are those on netflix or hulu? I mainly use those sources.",
+      "13. Speaker 1: They're actually on Hulu! You should definitely check it out.",
+      "14. Speaker 2: Cool, I will. Do those shows have an actual ending or do they not know what to do next yet?",
+      "15. Speaker 1: They still have a lot of the story left to animate.",
+      "16. Speaker 2: Gotcha. I'm excited to watch I can't wait. What else do you like to do for fun?",
+      "17. Speaker 1: I also like reading books and listening to music.",
+      "18. Speaker 2: That's cool. I read a lot, mostly fantasy books. Do you listen to a specific genre?"
+    ],
+    "gpt_reasoning": "Speaker 2 does not demonstrate an understanding of Speaker 1's emotions or react with an appropriate sentiment or emotion to Speaker 1's shared experience. However, Speaker 2 does ask a follow-up question and shows interest in Speaker 1's hobbies, which could be seen as a form of support."
+  },
+  {
+    "behavior_type": "empathetic",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. You know, I can't put my finger on why, but you kind of seem like you have a sister. Do you have any siblings?",
+      "3. Speaker 1: I do! I have a younger brother. What about you?",
+      "4. Speaker 2: You have a brother? Cool! Do you guys get along?",
+      "5. Speaker 1: We used to fight a lot as kids, but we get along well now.",
+      "6. Speaker 2: That's awesome. Personally, I always wanted an older sister so I could have someone to look up to. Are you older than your brother?",
+      "7. Speaker 1: Yes, I'm older than my brother. I always wanted an older sister too!",
+      "8. Speaker 2: You know you seem really nice, and smart. I bet your brother looks up to you, even if you don't realize it.",
+      "9. Speaker 1: That's really nice of you to say! I don't know if he does, but I want to become someone who he can look up to.",
+      "10. Speaker 2: Uh-huh. So tell me, what is the most fun you've ever had with your brother?",
+      "11. Speaker 1: It probably has to be when my mom makes us run errands together. I didn't realize it before, but doing it with someone else makes errands more fun to do.",
+      "12. Speaker 2: Yeah. That's a good one. Well I think it's great you get along with your brother. Anyway, do you have any pets at home?",
+      "13. Speaker 1: No. I want a dog though. Do you have any pets?",
+      "14. Speaker 2: I have a german shepherd dog named libby and I love her so much, although she isn't the most affectionate animal.",
+      "15. Speaker 1: Wow, a German Shepard is actually the breed I want. I guess your dog is just kind of shy.",
+      "16. Speaker 2: For sure. Wait, do you have any pets right now?",
+      "17. Speaker 1: Do, I don't have any pets.",
+      "18. Speaker 2: Do you want a pet at some point in the future? No judgment here, I'm just curious.",
+      "19. Speaker 1: Yes, I eventually want a dog. A German Shepard or a Shiba Inu",
+      "20. Speaker 2: Would you want to get a cat or a dog?",
+      "21. Speaker 1: I would prefer a dog, but a cat sounds nice too.",
+      "22. Speaker 2: Dogs are the best. I actually have a pet dog right now. I hope you can get one soon! Hey by the way, are you a student?"
+    ],
+    "gpt_reasoning": "Speaker 2 does not demonstrate an understanding of Speaker 1's emotions or react with an appropriate sentiment or emotion to Speaker 1's shared experience. However, Speaker 2 does show interest in Speaker 1's life by asking if they are a student and expresses hope that they can get a dog soon. While this is not necessarily empathetic, it does show a level of engagement and concern for Speaker 1's interests."
+  },
+  {
+    "behavior_type": "empathetic",
+    "gpt_label": 0.0,
+    "turns": [
+      "1. Speaker 1: Hi!",
+      "2. Speaker 2: hi! I am happy to be talking to you. You know, you seem like a pretty interesting person. What do you do for a living?",
+      "3. Speaker 1: I am an Emory student, but I also work at the student digital life at our school's library.",
+      "4. Speaker 2: Wow, I don't think I've ever heard of that. What kind of job is it?",
+      "5. Speaker 1: It's a kind of student technology support in which you have to interact with customers to help resolve computer problems",
+      "6. Speaker 2: Do you like it?",
+      "7. Speaker 1: More or less",
+      "8. Speaker 2: Right. I hope when I start working I'm doing something I like most of the time. I always hear about people getting stuck in a job they hate and that is scary to me.",
+      "9. Speaker 1: That's true, especially if you have visa problem like me. If you are a citizen of US, you shall be able to change from job to job. Otherwise, you have to be stuck in that field forever. It's really important to think twice",
+      "10. Speaker 2: Uh-huh. This is a fun question. When you were younger, what did you want to be when you grew up?",
+      "11. Speaker 1: I wanted to be a doctor.",
+      "12. Speaker 2: Yeah. You know, it's silly, but when I was only a few months old I wanted to be an astronaut.",
+      "13. Speaker 1: Wow, impressive, did you make it?",
+      "14. Speaker 2: Uh-huh. Do you think it would be cool to be an astronaut?",
+      "15. Speaker 1: Yes, of course.",
+      "16. Speaker 2: Yeah. You're probably right. I hope you don't mind me asking, but are you dating anyone right now?",
+      "17. Speaker 1: Ah... that's an embarrassing question. More or less, but he will be separted from me soon",
+      "18. Speaker 2: Oh, cool! How long have you been together?",
+      "19. Speaker 1: Two months.",
+      "20. Speaker 2: Well, I hope you guys are really happy together. Do you have any pets at home?",
+      "21. Speaker 1: No. Plus it's going to end pretty soon, I hope you don't ask much about it...",
+      "22. Speaker 2: Do you want a pet at some point in the future? No judgment here, I'm just curious.",
+      "23. Speaker 1: Yes, a cat.",
+      "24. Speaker 2: Would you want to get a cat or a dog?",
+      "25. Speaker 1: I said a cat.",
+      "26. Speaker 2: Cats are great. I myself actually have a pet dog right now, but I might get a cat in the future too. I hope you can get one soon! Hey by the way, are you a student?",
+      "27. Speaker 1: Yes, I told you so.",
+      "28. Speaker 2: Cool! Personally, I think school can be pretty frustrating, but I do love learning new things, and a lot of my teachers are great. What about you? Do you like school?",
+      "29. Speaker 1: More or less. Doing activities like talking to a robot is great, but doing assignments are tired. I've been spending the past week doing homework.",
+      "30. Speaker 2: I understand, it can definitely be stressful. What would you change about your school, if you could?"
+    ],
+    "gpt_reasoning": "Speaker 2 acknowledges that school can be frustrating and asks what Speaker 1 would change about it, showing an understanding of Speaker 1's experience. However, they do not react with a specific sentiment or emotion, nor do they offer reassurance or support."
+  }
+]
