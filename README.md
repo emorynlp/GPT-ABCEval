@@ -1,6 +1,6 @@
 # GPT-ABCEval
 
-Paper: **Leveraging Large Language Models for Automated Dialogue Analysis** (to appear at SIGDIAL 2023)
+Paper: [**Leveraging Large Language Models for Automated Dialogue Analysis**](paper.pdf) (SIGDIAL 2023)
 
  This work aims to automatically identify the occurrence of various dialogue behaviors in human-bot conversations using ChatGPT-3.5. 
  
