@@ -6,7 +6,7 @@ import time
 import sys
 import tiktoken
 
-chatgpt = 'gpt-3.5-turbo-301'
+chatgpt = 'gpt-3.5-turbo-0301'
 
 def gpt(
     prompt,
